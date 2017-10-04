@@ -42,7 +42,7 @@ Another strength of Emacs is its customizability. Usually the first thing people
 
 In Linux, this file is usually found in the folder ~/.emacs.d. 
 
-In OSX and Windows, this file is usually called `.emacs` and may reside in a number of places. The simplest way to locate (or create) the file is to type `C-x, C-f ~/.emacs`. 
+In OSX and Windows, this file is usually called `.emacs` and may reside in a number of places. The simplest way to locate (or create) the file is to type `C-x, C-f ~/.emacs RET`. 
 
 I have included a simple initilization file above to get started. 
 
