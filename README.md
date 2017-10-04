@@ -4,7 +4,7 @@ This repository contains links and files that will help you get started with usi
 
 ## Download and Installation
 
-Go here:
+Visit the GNU website and follow instructions for your operating system:
 https://www.gnu.org/software/emacs/download.html
 
 
@@ -29,6 +29,7 @@ Examples of use:
 
 
 Here is a list of commonly used keybindings: https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
+
 Note: You do not need to know all of them to find Emacs useful
 
 ### CUA-mode
