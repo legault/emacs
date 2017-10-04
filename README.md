@@ -36,6 +36,16 @@ Note: You do not need to know all of them to find Emacs useful
 
 Newcomers to Emacs should know that Emacs has important defaults for the keybindings C-c, C-x, and C-v. Thus, they do not COPY, CUT, and PASTE, as is common outside of Emacs. This can be changed manually in your initialization file or by turning on CUA-mode.
 
+## Customizing your experience
+
+The second strength of Emacs is its customizability. Usually the first thing people customize is the initialization file `init.el` (sometimes called the "dot" file), which exists in various forms across platforms. 
+
+In Linux, this file is usually found in the folder ~/.emacs.d. 
+
+In OSX and Windows, this file is usually called `.emacs` and may reside in a number of places. The simplest way to locate (or create) the file is to type `C-x, C-f ~/.emacs`. 
+
+I have included a simple initilization file above to get started. 
+
 ## Packages worth considering
 
 Emacs has many packages, most of which can be downloaded from melpa.org or using `M-x package-install`. Some useful packages include:
@@ -60,10 +70,12 @@ Series of blog posts by Sacha Chua: http://sachachua.com/blog/category/emacs/
 
 John Wiegley's highly customized initialization file (.emacs or init.el): https://github.com/jwiegley/dot-emacs
 
-Mastering Emacs (an eBook with often free guides for many different features): https://www.masteringemacs.org/all-articles
+Steve Purcell's .emacs setup: https://github.com/purcell/emacs.d
+
+Mastering Emacs (eBook with free guides for many different features): https://www.masteringemacs.org/all-articles
 
 Emacs Rocks (collection of videos on using Emacs): http://emacsrocks.com/
 
 ## rms
 
-No emacs guide is complete without mentioning its inimitable creator Richard Stallman (rms). For more on him, visit https://stallman.org
+No emacs guide is complete without mentioning its inimitable creator Richard Stallman (rms). For more on him and his philosophy on computing and other things, visit https://stallman.org
