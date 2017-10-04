@@ -54,6 +54,10 @@
   (setq ess-indent-with-fancy-comments nil))
 (add-hook 'ess-mode-hook #'my-ess-settings)
 
+;; MAGIT SETTINGS
+ ;; Set path to git executable (for Windows)
+(setq magit-git-executable "C:/Program Files/Git/bin/git.exe")
+
  (custom-set-faces
 ;; custom-set-faces was added by Custom.
 ;; If you edit it by hand, you could mess it up, so be careful.
