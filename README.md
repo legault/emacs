@@ -13,14 +13,20 @@ https://www.gnu.org/software/emacs/download.html
 One of the strengths of Emacs is its use of (and ability to customize) keyboard shortcuts or keybindings. Most keybindings begin with either the CTRL button or the ALT button. In most guides they are shortened as follows:
 
 `C` = CTRL (Control) button
+
 `M` = ALT button (which used to be the META button)
+
 `RET` = RETURN/ENTER button
+
 
 Examples of use:
 
 `C-x` = Press CTRL and X
+
 `C-x`, C-f = Press CTRL and X, then CTRL and F
+
 `M-x org-mode RET` = Press ALT and X, then type "org-mode", then press RETURN/ENTER
+
 
 Here is a list of commonly used keybindings: https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
 Note: You do not need to know all of them to find Emacs useful
