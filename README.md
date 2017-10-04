@@ -1,6 +1,6 @@
 # A quick introduction to Emacs
 
-This repository contains links and files that may help you get started with using Emacs.
+This repository contains links and files that will help you get started with using Emacs.
 
 ## Download and Installation
 
