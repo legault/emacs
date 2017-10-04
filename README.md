@@ -38,7 +38,7 @@ Newcomers to Emacs should know that Emacs has important defaults for the keybind
 
 ## Customizing your experience
 
-The second strength of Emacs is its customizability. Usually the first thing people customize is the initialization file `init.el` (sometimes called the "dot" file), which exists in various forms across platforms. 
+Another strength of Emacs is its customizability. Usually the first thing people customize is the initialization file `init.el` (sometimes called the "dot" file), which exists in various forms across platforms. 
 
 In Linux, this file is usually found in the folder ~/.emacs.d. 
 
