@@ -11,11 +11,11 @@
  ;; Load packages
 (package-initialize)
  ;; Remove splash screen, enter org mode
-;; (setq inhibit-splash-screen t
-;;       initial-scratch-message nil
-;;       initial-major-mode 'org-mode)
-;;  ;; Remove toolbar
-;; (tool-bar-mode -1)
+(setq inhibit-splash-screen t
+       initial-scratch-message nil
+       initial-major-mode 'org-mode)
+ ;; Remove toolbar
+(tool-bar-mode -1)
  ;; Do not make backup files
 (setq make-backup-files nil)
 ;; Do not auto-save files
