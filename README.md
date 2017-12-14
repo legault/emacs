@@ -78,7 +78,7 @@ Some useful packages include:
 
 [Intro to org-mode](http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html)
 
-Series of [blog posts by Sacha Chua]](http://sachachua.com/blog/category/emacs/)
+Series of [blog posts by Sacha Chua](http://sachachua.com/blog/category/emacs/)
 
 John Wiegley's [highly customized initialization file](https://github.com/jwiegley/dot-emacs)
 
