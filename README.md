@@ -1,6 +1,8 @@
 # A quick introduction to Emacs
 
-This repository contains links and files that will help you get started with using Emacs.
+I do many of my tasks within emacs, a "family" of text editors (really just a Lisp interpreter) that can do a lot of things (some people say anything). Tasks I do in emacs include note taking, programming (mostly in R), tracking RSS feeds, doing version control, and managing citations. 
+
+I have occasionally been asked how to get started with emacs, so I've created this (very) basic repository with some tips and links to more comprehensive guides.
 
 [Download and Installation](#Download)
 
