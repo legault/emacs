@@ -2,15 +2,19 @@
 
 This repository contains links and files that will help you get started with using Emacs.
 
-## Download and Installation
-
-Visit the GNU website and follow instructions for your operating system:
-https://www.gnu.org/software/emacs/download.html
+[Download and Installation](#Download) | [Shortcuts/keybdings](#Shortcuts) | [Customization](#Customizing)
 
 
-## Essential shortcuts/keybindings
+## Download and Installation<a name = "Download">
 
-One of the strengths of Emacs is its use of (and ability to customize) keyboard shortcuts or keybindings. Most keybindings begin with either the CTRL button or the ALT button. In most guides they are shortened as follows:
+Visit the [GNU website and follow instructions](https://www.gnu.org/software/emacs/download.html) for your operating system:
+
+
+## Essential Shortcuts/keybindings<a name = "Shortcuts">
+
+One of the strengths of Emacs is its use of (and ability to customize) keyboard shortcuts or keybindings. 
+
+Most keybindings begin with either the CTRL button or the ALT button. In most guides they are shortened as follows:
 
 `C` = CTRL (Control) button
 
@@ -28,15 +32,15 @@ Examples of use:
 `M-x org-mode RET` = Press ALT and X, then type "org-mode", then press RETURN/ENTER
 
 
-Here is a list of commonly used keybindings: https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
+[Here is a list](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) of the most commonly used keybindings. 
 
-Note: You do not need to know all of them to find Emacs useful
+**Note**: You do not need to know all of them to find Emacs useful
 
 ### CUA-mode
 
 Newcomers to Emacs should know that Emacs has important defaults for the keybindings C-c, C-x, and C-v. Thus, they do not COPY, CUT, and PASTE, as is common outside of Emacs. This can be changed manually in your initialization file or by turning on CUA-mode.
 
-## Customizing your experience
+## Customizing your experience<a name = "Customizing">
 
 Another strength of Emacs is its customizability. Usually the first thing people customize is the initialization file `init.el` (sometimes called the "dot" file), which exists in various forms across platforms. 
 
