@@ -39,7 +39,7 @@ Examples of use:
 `M-x org-mode RET` = Press ALT and X, then type "org-mode", then press RETURN/ENTER
 
 
-[Here is a list](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) of the most commonly used keybindings. 
+[Here's a list](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) of the most commonly used keybindings. 
 
 **Note**: You do not need to know all of them to find Emacs useful
 
@@ -74,17 +74,17 @@ Some useful packages include:
 
 ## How-to guides and tutorials<a name = "Guides">
 
-- [Intro to org-mode](http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html)
+[Intro to org-mode](http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html)
 
-- Series of [blog posts by Sacha Chua]](http://sachachua.com/blog/category/emacs/)
+Series of [blog posts by Sacha Chua]](http://sachachua.com/blog/category/emacs/)
 
-- John Wiegley's [highly customized initialization file](https://github.com/jwiegley/dot-emacs)
+John Wiegley's [highly customized initialization file](https://github.com/jwiegley/dot-emacs)
 
-- Steve Purcell's [.emacs setup](https://github.com/purcell/emacs.d)
+Steve Purcell's [.emacs setup](https://github.com/purcell/emacs.d)
 
-- [Mastering Emacs](https://www.masteringemacs.org/all-articles) (an eBook with a number of free guides)
+[Mastering Emacs](https://www.masteringemacs.org/all-articles) (an eBook with a number of free guides)
 
-- [Emacs Rocks](http://emacsrocks.com) (collection of videos on using Emacs)
+[Emacs Rocks](http://emacsrocks.com) (collection of videos on using Emacs)
 
 ## rms
 
