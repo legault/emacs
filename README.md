@@ -3,9 +3,13 @@
 This repository contains links and files that will help you get started with using Emacs.
 
 [Download and Installation](#Download)
+
 [Essential shortcuts/keybindings](#Shortcuts)
+
 [Customizating your experience](#Customizing)
+
 [Useful packages](#Packages)
+
 [How-to guides](#Guides)
 
 ## Download and Installation<a name = "Download">
