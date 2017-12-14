@@ -2,15 +2,18 @@
 
 This repository contains links and files that will help you get started with using Emacs.
 
-[Download and Installation](#Download) | [Shortcuts/keybdings](#Shortcuts) | [Customization](#Customizing)
-
+[Download and Installation](#Download)
+[Essential shortcuts/keybindings](#Shortcuts)
+[Customizating your experience](#Customizing)
+[Useful packages](#Packages)
+[How-to guides](#Guides)
 
 ## Download and Installation<a name = "Download">
 
 Visit the [GNU website and follow instructions](https://www.gnu.org/software/emacs/download.html) for your operating system:
 
 
-## Essential Shortcuts/keybindings<a name = "Shortcuts">
+## Essential shortcuts/keybindings<a name = "Shortcuts">
 
 One of the strengths of Emacs is its use of (and ability to customize) keyboard shortcuts or keybindings. 
 
@@ -48,38 +51,37 @@ In Linux, this file is usually found in the folder ~/.emacs.d.
 
 In OSX and Windows, this file is usually called `.emacs` and may reside in a number of places. The simplest way to locate (or create) the file is to type `C-x, C-f ~/.emacs RET`. 
 
-I have included a simple initilization file above to get started. 
+I have included a simple [initilization file](dotemacs.el) to get started. 
 
-## Packages worth considering
+## Useful packages<a name = "Packages">
 
-Emacs has many packages, most of which can be downloaded from melpa.org or using `M-x package-install`. Some useful packages include:
+Emacs has many packages, most of which can be downloaded from melpa.org or using `M-x package-install`. 
 
-Emacs Speaks Statistics (ESS): A package for interacting with various statistical analysis programs such as R, S-Plus, SAS, Stata and OpenBUGS/JAGS
-https://ess.r-project.org/
+Some useful packages include:
 
-Magit: A porcelain for interacting with the version-control program `git`
-https://magit.vc/
+[Emacs Speaks Statistics (ESS)](https://ess.r-project.org/): A package for interacting with various statistical analysis programs such as R, S-Plus, SAS, Stata and OpenBUGS/JAGS
 
-Elfeed: A web feed reader (RSS and Atom)
-https://github.com/skeeto/elfeed
 
-Ivy: A completion/search mode
-https://github.com/abo-abo/swiper
+[Magit](https://magit.vc/): A porcelain for interacting with the version-control program `git`. Magit can also be used to interact with Github and other version control hosts.
 
-## Guides and Tutorials
+[Elfeed](https://github.com/skeeto/elfeed): A web feed reader (RSS and Atom)
 
-Intro to org-mode: http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html
+[Ivy](https://github.com/abo-abo/swiper): A completion/search mode
 
-Series of blog posts by Sacha Chua: http://sachachua.com/blog/category/emacs/
+## How-to guides and tutorials<a name = "Guides">
 
-John Wiegley's highly customized initialization file (.emacs or init.el): https://github.com/jwiegley/dot-emacs
+- [Intro to org-mode](http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html)
 
-Steve Purcell's .emacs setup: https://github.com/purcell/emacs.d
+- Series of [blog posts by Sacha Chua]](http://sachachua.com/blog/category/emacs/)
 
-Mastering Emacs (eBook with free guides for many different features): https://www.masteringemacs.org/all-articles
+- John Wiegley's [highly customized initialization file](https://github.com/jwiegley/dot-emacs)
 
-Emacs Rocks (collection of videos on using Emacs): http://emacsrocks.com/
+- Steve Purcell's [.emacs setup](https://github.com/purcell/emacs.d)
+
+- [Mastering Emacs](https://www.masteringemacs.org/all-articles) (an eBook with a number of free guides)
+
+- [Emacs Rocks](http://emacsrocks.com) (collection of videos on using Emacs)
 
 ## rms
 
-No emacs guide is complete without mentioning its inimitable creator Richard Stallman (rms). For more on him and his philosophy on computing and other things, visit https://stallman.org
+No emacs guide is complete without mentioning its inimitable creator Richard Stallman (rms). For more on him and his philosophy on computing and other things, visit [his unique website](https://stallman.org)
