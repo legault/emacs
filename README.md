@@ -8,7 +8,7 @@ I have occasionally been asked how to get started with Emacs, so I've created th
 
 [Essential shortcuts/keybindings](#Shortcuts)
 
-[Customizating your experience](#Customizing)
+[Customizing your experience](#Customizing)
 
 [Useful packages](#Packages)
 
