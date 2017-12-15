@@ -16,7 +16,9 @@ I am sometimes asked how to get started with Emacs, so I've created this (very) 
 
 ## Download and Installation<a name = "Download">
 
-Visit the [GNU website and follow instructions](https://www.gnu.org/software/emacs/download.html) for your operating system:
+Visit the [GNU website and follow instructions](https://www.gnu.org/software/emacs/download.html) for your operating system.
+
+Emacs is most at home in a Linux or BSD environment (its use of dotfiles will be familiar to such users, for example), but it works quite well in Windows and OSX. However, to use all of Emacs' features in Windows, you will also need to install [https://www.cygwin.com/install.html]](cygwin).  
 
 
 ## Essential shortcuts/keybindings<a name = "Shortcuts">
