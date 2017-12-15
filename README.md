@@ -2,7 +2,7 @@
 
 I do many of my tasks within Emacs, a "family" of text editors (really just a Lisp interpreter) that can do a lot of things (some people say anything). Tasks I do in Emacs include note taking, programming (mostly in R), tracking RSS feeds, doing version control, and managing citations. 
 
-I have occasionally been asked how to get started with Emacs, so I've created this (very) basic repository with some tips and links to more comprehensive guides.
+I am sometimes asked how to get started with Emacs, so I've created this (very) basic repository with some tips and links to more comprehensive guides.
 
 [Download and Installation](#Download)
 
