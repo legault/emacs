@@ -38,7 +38,7 @@ Examples of use:
 
 `C-x` = Press CTRL and X
 
-`C-x`, C-f = Press CTRL and X, then CTRL and F
+`C-x C-f` = Press CTRL and X, then CTRL and F
 
 `M-x org-mode RET` = Press ALT and X, then type "org-mode", then press RETURN/ENTER
 
